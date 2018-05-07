@@ -10,34 +10,13 @@ h1 {
 
 img {
   height: 360px;
-  width: 200px;
-}
-
-#navbar {
-  position: relative;
-  top: 15px;
-  left: 50%;
-  margin-left: -254px;
+  width: 225px;
 }
 
 #header {
   position: relative;
   top: -10px;
   background-color: #113166;
-}
-
-ul {
-  list-style-stype: none;
-  position: relative;
-  margin: -10px;
-}
-
-li {
-  display: inline;
-  border: 1px #ffffff;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  color: #ffffff;
-  padding: 5px;
 }
 
 p {
@@ -49,4 +28,12 @@ p {
   bottom: -20px;
   height: 75px;
   background-color: #113166;
+}
+
+#left {
+  float: left
+}
+
+#right {
+  float: right
 }
