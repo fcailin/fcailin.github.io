@@ -3,12 +3,14 @@ body {
 }
 
 h1 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  color: #ffffff;
+  text-align: center;
 }
 
 img {
   height: 360px;
-  width: 120px;
+  width: 200px;
 }
 
 #navbar {
