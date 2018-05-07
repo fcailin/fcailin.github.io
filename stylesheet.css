@@ -16,6 +16,7 @@ img {
 #header {
   position: relative;
   top: -10px;
+  height: 75px;
   background-color: #113166;
 }
 
@@ -28,6 +29,7 @@ p {
   bottom: -20px;
   height: 75px;
   background-color: #113166;
+  clear: both;
 }
 
 #left {
