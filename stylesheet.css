@@ -1,27 +1,23 @@
 body {
-  background-color: #84b3ff
+  background-color: #c4dfff
 }
 
 h1 {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Verdana","Geneva",sans-serif;
   color: #ffffff;
   text-align: center;
-}
-
-img {
-  height: 360px;
-  width: 225px;
 }
 
 #header {
   position: relative;
   top: -10px;
-  height: 75px;
   background-color: #113166;
 }
 
-p {
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+h3 {
+  font-family: "Verdana","Geneva",sans-serif;
+  margin-left: auto;
+  margin-right:auto;
 }
 
 #footer {
@@ -32,6 +28,7 @@ p {
   clear: both;
 }
 
-#left {
-  float: center
+.tenor-gif-embed {
+  margin-left: auto;
+  margin-right: auto;
 }
